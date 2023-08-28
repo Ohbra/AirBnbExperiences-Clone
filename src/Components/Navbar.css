@@ -1,0 +1,20 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.navbar{
+    height: 70px;
+    box-shadow:0px 3px 8px rgba(0, 0, 0, 0.10);
+    display: flex;
+    align-items: center;
+}
+
+.logo{
+    width: 82.02px;
+    height: 25.352px;
+    flex-shrink: 0;  
+    margin-left: 30px; 
+    max-width: 100px;
+}

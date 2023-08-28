@@ -1,0 +1,22 @@
+section{
+    padding: 20px;
+}
+.hero--container{
+ display: flex;
+ flex-direction: column;
+}
+
+.hero--img{
+    max-width: 500px;
+    align-self: center;
+    flex: 1;
+
+}
+
+.hero--header{
+    margin: 16px;
+}
+
+.hero--text{
+    margin-top: 0;
+}
